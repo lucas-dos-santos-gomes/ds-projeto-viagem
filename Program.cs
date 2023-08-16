@@ -1,4 +1,6 @@
-﻿namespace TripProject;
+﻿using System;
+
+namespace TripProject;
 
 class Program
 {
