@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Globalization;
 
 namespace TripProject;
 
@@ -43,5 +42,14 @@ class Program {
     } while(option != 0);
     Console.Clear();
     Console.WriteLine("Operação finalizada!");
+  }
+
+  static double Repeat(double value, string type) {
+    while(value == 0) {
+      Console.Clear();
+      Console.WriteLine($"Insira o valor do {type} diferente de 0:");
+      value = double.Parse(Console.ReadLine()!);
+    }
+    return value;
   }
 }
