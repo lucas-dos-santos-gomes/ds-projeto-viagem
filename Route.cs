@@ -37,7 +37,7 @@ namespace TripProject {
     }
 
     public string ListRoute() {
-      return $"Quilômetros viajados: {GetKmTraveled()} \nValor do combustível: {GetFuelValue()} \nValor do pedágio: {GetTollValue()}";
+      return $"Quilômetros viajados: {GetKmTraveled()}km \nValor do combustível: R${GetFuelValue()} \nValor do pedágio: R${GetTollValue()}";
     }
   }
 }

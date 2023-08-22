@@ -40,7 +40,7 @@ namespace TripProject {
       SetFuelValue(p.GetFuelValue());
       SetTollValue(p.GetTollValue());
       SetFullRoute((GetKmTraveled() * GetFuelValue()) + GetTollValue());
-      return $"{p.ListRoute()}\nPercurso total: {GetFullRoute()}";
+      return $"{p.ListRoute()}\n\nPercurso total: R${GetFullRoute()}";
     }
   }
 }
