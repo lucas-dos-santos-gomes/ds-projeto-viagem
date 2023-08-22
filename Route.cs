@@ -2,7 +2,7 @@ namespace TripProject {
   public class Route {
     private double kmTraveled;
     private double fuelValue; // Combustível
-    private string tollValue; // Pedágio
+    private double tollValue; // Pedágio
 
     public double GetKmTraveled() {
       return kmTraveled;
@@ -20,15 +20,15 @@ namespace TripProject {
       this.fuelValue = fuelValue;
     }
 
-    public string GetTollValue() {
+    public double GetTollValue() {
       return tollValue;
     }
 
-    public void SetTollValue(string tollValue) {
+    public void SetTollValue(double tollValue) {
       this.tollValue = tollValue;
     }
 
-    public Route(double km, double fuel, string toll) {
+    public Route(double km, double fuel, double toll) {
       kmTraveled = km;
       fuelValue = fuel;
       tollValue = toll;
