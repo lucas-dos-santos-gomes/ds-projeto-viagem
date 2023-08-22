@@ -1,0 +1,15 @@
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\TripProject.exe
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\TripProject.deps.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\TripProject.runtimeconfig.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\TripProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\TripProject.pdb
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\TripProject.csproj.AssemblyReference.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\TripProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\TripProject.AssemblyInfoInputs.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\TripProject.AssemblyInfo.cs
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\TripProject.csproj.CoreCompileInputs.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\TripProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\refint\TripProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\TripProject.pdb
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\TripProject.genruntimeconfig.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\obj\Release\net7.0\ref\TripProject.dll

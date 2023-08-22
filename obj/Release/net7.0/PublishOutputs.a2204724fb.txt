@@ -1,0 +1,5 @@
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\publish\TripProject.exe
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\publish\TripProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\publish\TripProject.deps.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\publish\TripProject.runtimeconfig.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\TripProject\bin\Release\net7.0\publish\TripProject.pdb
