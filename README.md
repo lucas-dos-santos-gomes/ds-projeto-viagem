@@ -5,6 +5,9 @@ Essa atividade foi passada pela professora Cristiane Tuji, com o objetivo de uti
 ## Features
 
 O projeto foi construído em C# e .NET e se trata de um sistema básico de console que mostra dados de uma viagem que tem os dados informados pelo usuário utilizando Orientação a Objetos.
+
+Novas features: método construtor
+
 Para criar um projeto em C# e .NET no VS Code, siga as instruções abaixo:
 
 1- `dotnet new console --use-program-main`: cria um novo console no modelo de estrutura antigo
