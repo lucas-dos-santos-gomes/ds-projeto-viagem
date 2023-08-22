@@ -28,6 +28,8 @@ namespace TripProject {
       this.tollValue = tollValue;
     }
 
+    public Route() {}
+
     public Route(double km, double fuel, double toll) {
       kmTraveled = km;
       fuelValue = fuel;
