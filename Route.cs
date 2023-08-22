@@ -28,9 +28,14 @@ namespace TripProject {
       this.tollValue = tollValue;
     }
 
-
     public Route(double km, double fuel, string toll) {
       kmTraveled = km;
+      fuelValue = fuel;
+      tollValue = toll;
+    }
+
+    public string ListRoute() {
+      return $"Quilômetros viajados: {GetKmTraveled()} \nValor do combustível: {GetFuelValue()} \nValor do pedágio: {GetTollValue()}";
     }
   }
 }
