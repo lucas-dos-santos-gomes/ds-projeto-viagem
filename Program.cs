@@ -22,13 +22,13 @@ class Program {
 
       if(option == 1) {
         Console.WriteLine("Informe a quilometragem percorrida na viagem:");
-        double kmTraveleded = double.Parse(Console.ReadLine()!);
+        double kmTraveleded = Repeat(double.Parse(Console.ReadLine()!), "km");
         
         Console.WriteLine("\nAgora, informe o valor do combustível gasto:");
-        double fuelValue = double.Parse(Console.ReadLine()!);
+        double fuelValue = Repeat(double.Parse(Console.ReadLine()!), "combustível");
 
         Console.WriteLine("\nPor fim, informe o valor do pedágio que foi gasto:");
-        double tollValue = double.Parse(Console.ReadLine()!);
+        double tollValue = Repeat(double.Parse(Console.ReadLine()!), "pedágio");
 
         newRoute = new Route(kmTraveleded, fuelValue, tollValue);
         Console.Clear();
